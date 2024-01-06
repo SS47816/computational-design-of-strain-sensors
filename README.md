@@ -1,11 +1,13 @@
-# Computational Design of Ultra-robust Strain Sensors for Soft Robot Perception and Autonomoy
+# Computational Design of Ultra-robust Strain Sensors for Soft Robot Perception and Autonomy
 
 _Haitao Yang, Shuo Ding, Jiahao Wang, Shuo Sun, Ruphan Swaminathan, Serene Wen Ling Ng, and Xinglong Pan_
 
-Northwestern Polytechnical University
+---
 
-A*STAR Manufacturing, Trade and Connectivity (MTC)
+_Northwestern Polytechnical University_
 
-Advanced Research and Technology Innovation Centre (ARTIC)
+_A*STAR Manufacturing, Trade and Connectivity (MTC)_
 
-National University of Singapore (NUS)
+_Advanced Research and Technology Innovation Centre (ARTIC)_
+
+_National University of Singapore (NUS)_
